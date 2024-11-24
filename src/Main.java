@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("*****************************************");
-        System.out.println("Sea bienvenido/a al Converso de Moenda = ");
+        System.out.println("Sea bienvenido/a al Conversor de Monedas = ");
 
 
         System.out.println("1) Dólar =>> Peso argentino");
